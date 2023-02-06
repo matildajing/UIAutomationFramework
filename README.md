@@ -8,7 +8,7 @@ UI automation test
 Pre-requisites and tools
 1. Install .Net Core, version: .Net 7.0.2
 2. Install Chrome  - Version 109.0.5414.119
-3. Install Chrome  - Version 109.0.1
+3. Install Firefox  - Version 109.0.1
 4. Install Visual Studio 2022 (optional)
 
 How to execute the tests
